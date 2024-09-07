@@ -1,0 +1,6 @@
+numpy 
+pandas
+seaborn 
+matplotlib
+-e .
+  #this is used to trigger directly setup.py
